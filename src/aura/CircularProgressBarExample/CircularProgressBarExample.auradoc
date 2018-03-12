@@ -1,0 +1,13 @@
+<aura:documentation>
+	<aura:description>Documentation</aura:description>
+	<aura:example name="ExampleName" ref="exampleComponentName" label="Label">
+		Example Description
+ghbdtn
+
+ffff
+
+
+
+
+	</aura:example>
+</aura:documentation>
